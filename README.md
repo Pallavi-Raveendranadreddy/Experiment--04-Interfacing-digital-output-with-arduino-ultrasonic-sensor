@@ -84,6 +84,8 @@ void loop()
 ```
 ### Output
 ![image](https://github.com/Pallavi-Raveendranadreddy/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/54046f7313bbaf32a5394c4768ad34467b2435be/robotics4.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/9444af9de0ebdfacd812ea4427d56e5b58590866/p1.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/9444af9de0ebdfacd812ea4427d56e5b58590866/p2.PNG)
 ### Distance vs measurement table 
 
 			
