@@ -91,7 +91,7 @@ void loop()
 			
 			
 
-![image]()
+![image](https://github.com/Pallavi-Raveendranadreddy/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/f9a5d70c453d5f1a74abf0bcdd31e416990bda33/p0.PNG)
 
 			
 			
