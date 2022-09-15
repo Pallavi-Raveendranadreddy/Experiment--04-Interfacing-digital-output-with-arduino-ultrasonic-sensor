@@ -82,7 +82,8 @@ void loop()
   delay(500);
 }
 ```
-
+### Output
+![image](https://github.com/Pallavi-Raveendranadreddy/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/54046f7313bbaf32a5394c4768ad34467b2435be/robotics4.PNG)
 ### Distance vs measurement table 
 
 			
